@@ -7,6 +7,7 @@ export default defineConfig({
   title: "Theatrical",
   description: "Wiki with documentation for the Theatrical Minecraft mod",
   cleanUrls: true,
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     logo: {
       src: "/images/theatrical_logo.png",
