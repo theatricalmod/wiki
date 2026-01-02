@@ -6,6 +6,7 @@ export default defineConfig({
   
   title: "Theatrical",
   description: "Wiki with documentation for the Theatrical Minecraft mod",
+  cleanUrls: true,
   themeConfig: {
     logo: {
       src: "/images/theatrical_logo.png",
