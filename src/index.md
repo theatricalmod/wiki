@@ -6,12 +6,12 @@ hero:
   name: "Theatrical"
   tagline: Bringing theatre and festivals to Minecraft.
   image:
-    src: /assets/fresnel.png
+    src: ./assets/fresnel.png
     alt: Theatrical Mod Icon
   actions:
     - theme: brand
       text: Download
-      link: /downloads
+      link: ./downloads
     - theme: alt
       text: Join Discord
       link: https://discord.gg/7qMs5d6
