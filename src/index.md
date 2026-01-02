@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Download
-      link: ./downloads
+      link: ./download
     - theme: alt
       text: Join Discord
       link: https://discord.gg/7qMs5d6
