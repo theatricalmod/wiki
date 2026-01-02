@@ -7,6 +7,11 @@ export default defineConfig({
   title: "Theatrical",
   description: "Wiki with documentation for the Theatrical Minecraft mod",
   themeConfig: {
+    logo: {
+      src: "/images/theatrical_logo.png",
+      width: 24,
+      height: 24,
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
@@ -41,7 +46,11 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      {
+        icon: "github",
+        link: "https://github.com/TheatricalMod/wiki",
+      },
+      { icon: "discord", link: "https://discord.gg/7qMs5d6" },
+    ],
   }
 })

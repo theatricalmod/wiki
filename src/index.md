@@ -6,7 +6,7 @@ hero:
   name: "Theatrical"
   tagline: Bringing theatre and festivals to Minecraft.
   image:
-    src: ./assets/fresnel.png
+    src: /images/fresnel.png
     alt: Theatrical Mod Icon
   actions:
     - theme: brand
