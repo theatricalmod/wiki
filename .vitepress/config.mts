@@ -24,6 +24,13 @@ export default defineConfig({
     sidebar: [
       { text: 'Downloads', link: '/download' },
       {
+        text: 'Usage',
+        items: [
+          { text: 'Lighting Software', link: '/usage/software' },
+          { text: 'Shaders', link: '/usage/shaders' }
+        ]
+      },
+      {
         text: 'Fixtures',
         items: [
           { text: 'LED Fresnel', link: '/fixtures/led_fresnel' },
