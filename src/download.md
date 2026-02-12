@@ -10,3 +10,10 @@ Theatrical is available from both CurseForge and Modrinth - you can find the rel
     <VPButton tag="a" size="medium" text="CurseForge" theme="brand" href="https://www.curseforge.com/minecraft/mc-mods/theatrical/files/all?page=1&pageSize=20&showAlphaFiles=show" />
     <VPButton tag="a" size="medium" text="Modrinth" theme="modrinth" href="https://modrinth.com/mod/theatrical/versions" />
 </div>
+
+If you're interested in some more fixtures, you can find a community addon called Theatrical Extra Lights:
+
+<div class="button-list">
+    <VPButton tag="a" size="medium" text="CurseForge" theme="brand" href="https://www.curseforge.com/minecraft/mc-mods/theatrical-extra-lights" />
+    <VPButton tag="a" size="medium" text="Modrinth" theme="modrinth" href="https://modrinth.com/mod/theatrical-extra-lights" />
+</div>
